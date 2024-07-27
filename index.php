@@ -32,7 +32,7 @@ if (isset($_GET['error']) && $_GET['error'] == 1) {
 <div class="container" id="container">
 	<div class="form-container sign-up-container">
 		<form action="register.php" method="post">
-			<h1>Buat Akun</h1>
+			<h1>Buat </h1>
 			<input name="username" type="text" placeholder="Username" />
 			<input name="password" type="password" placeholder="Password" />
 			<button name="register">Daftar</button>
