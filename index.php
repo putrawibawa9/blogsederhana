@@ -62,7 +62,7 @@ if (isset($_GET['error']) && $_GET['error'] == 1) {
 				<button class="ghost" id="signIn">Masuk</button>
 			</div>
 			<div class="overlay-panel overlay-right">
-				<h1>Selamat Datang!</h1>
+				<h1>Selamat sadsadsdsadsadasdasdsadasdsdsad!</h1>
 				<p>Masukan data anda</p>
 				<button class="ghost" id="signUp">Daftar</button>
 			</div>
